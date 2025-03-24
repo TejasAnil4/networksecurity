@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/NetworkSecurity/mlruns/0/2c58b562728f4c6fbc4b22d3cb4b4881/artifacts
+end_time: 1742803756095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c58b562728f4c6fbc4b22d3cb4b4881
+run_name: painted-moose-930
+run_uuid: 2c58b562728f4c6fbc4b22d3cb4b4881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742803748624
+status: 3
+tags: []
+user_id: Tejas
